@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor specific
+*.swp
+*.swo
+*.bak
+*.sublime*
+.vscode/
+*.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
